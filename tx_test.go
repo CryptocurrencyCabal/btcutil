@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

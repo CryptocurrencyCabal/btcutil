@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/bloom"
+	"github.com/CryptocurrencyCabal/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

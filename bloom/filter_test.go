@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/bloom"
+	"github.com/CryptocurrencyCabal/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil/bloom"
 )
 
 // TestFilterLarge ensures a maximum sized filter can be created.

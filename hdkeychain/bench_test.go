@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"testing"
 
-	"github.com/CryptocurrencyCabal/htcd/btcutil/hdkeychain"
+	"github.com/CryptocurrencyCabal/btcutil/hdkeychain"
 )
 
 // bip0032MasterPriv1 is the master private extended key from the first set of

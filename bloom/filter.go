@@ -11,7 +11,7 @@ import (
 
 	"github.com/CryptocurrencyCabal/htcd/txscript"
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

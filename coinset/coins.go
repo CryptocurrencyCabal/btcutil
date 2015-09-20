@@ -6,7 +6,7 @@ import (
 	"sort"
 
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil"
 )
 
 // Coin represents a spendable transaction outpoint

@@ -16,7 +16,7 @@ import (
 	"testing"
 
 	"github.com/CryptocurrencyCabal/htcd/chaincfg"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/hdkeychain"
+	"github.com/CryptocurrencyCabal/btcutil/hdkeychain"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

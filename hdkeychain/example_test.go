@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/CryptocurrencyCabal/htcd/chaincfg"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/hdkeychain"
+	"github.com/CryptocurrencyCabal/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

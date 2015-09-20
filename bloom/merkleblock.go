@@ -7,7 +7,7 @@ package bloom
 import (
 	"github.com/CryptocurrencyCabal/htcd/blockchain"
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

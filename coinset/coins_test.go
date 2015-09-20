@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/coinset"
+	"github.com/CryptocurrencyCabal/btcutil"
+	"github.com/CryptocurrencyCabal/btcutil/coinset"
 	"github.com/btcsuite/fastsha256"
 )
 

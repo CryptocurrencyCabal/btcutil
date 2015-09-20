@@ -10,7 +10,7 @@ import (
 
 	"github.com/CryptocurrencyCabal/htcd/btcec"
 	"github.com/CryptocurrencyCabal/htcd/chaincfg"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/base58"
+	"github.com/CryptocurrencyCabal/btcutil/base58"
 	"github.com/btcsuite/golangcrypto/ripemd160"
 )
 

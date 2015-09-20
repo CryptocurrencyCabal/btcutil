@@ -11,7 +11,7 @@ import (
 	"github.com/CryptocurrencyCabal/htcd/btcec"
 	"github.com/CryptocurrencyCabal/htcd/chaincfg"
 	"github.com/CryptocurrencyCabal/htcd/wire"
-	"github.com/CryptocurrencyCabal/htcd/btcutil/base58"
+	"github.com/CryptocurrencyCabal/btcutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private
